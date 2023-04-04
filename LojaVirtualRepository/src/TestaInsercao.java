@@ -19,6 +19,8 @@ public class TestaInsercao {
 			Integer id = rst.getInt(1);
 			System.out.println("O ide criado foi: " + id);
 		}
+		
+		
 
 	}
 
